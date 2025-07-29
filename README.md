@@ -2,6 +2,7 @@
 # 📱 Android Skills Portfolio
 
 **Número de equipo:** 8 
+---
 **Integrantes:**  
 - Azael Hernández Uvera - Desarrollador y diseñador
 - Isai Raziel Toledo Mariscal - Desarrollador y tester
