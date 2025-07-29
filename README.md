@@ -29,7 +29,7 @@ Cada actividad corresponde a un ejercicio.
 *(Breve explicación de lo que hace este ejercicio)*  
 
 **Captura de pantalla:**  
-![Ejercicio 1](capturas/ejercicio1.png)
+![Ejercicio 1](capturas/Ejercicio1.png)
 
 ---
 
