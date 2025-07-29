@@ -26,7 +26,7 @@ Cada actividad corresponde a un ejercicio.
 
 ### Ejercicio 1
 **Descripción:**  
-*(Breve explicación de lo que hace este ejercicio)*  
+- Oculta y visualiza cadenas de texto establecidos. 
 
 **Captura de pantalla:**  
 ![Ejercicio 1](capturas/Ejercicio1.png)
@@ -35,7 +35,7 @@ Cada actividad corresponde a un ejercicio.
 
 ### Ejercicio 2
 **Descripción:**  
-*(Breve explicación de lo que hace este ejercicio)*  
+- Envia las cadenas de texto introducidos a otros campos de texto 
 
 **Captura de pantalla:**  
 ![Ejercicio 2](capturas/Ejercicio2.png)
@@ -44,7 +44,7 @@ Cada actividad corresponde a un ejercicio.
 
 ### Ejercicio 3
 **Descripción:**  
-*(Breve explicación de lo que hace este ejercicio)*  
+- Imprime la cadena de texto introducido al instante dentro de otro campo de texto.
 
 **Captura de pantalla:**  
 ![Ejercicio 3](capturas/Ejercicio3.png)
@@ -53,7 +53,7 @@ Cada actividad corresponde a un ejercicio.
 
 ### Ejercicio 4
 **Descripción:**  
-*(Breve explicación de lo que hace este ejercicio)*  
+Crea una oracion con los valores introducidos en los campos de texto cuando se pulsa un boton, tambien se toma en practica el poder habilitar y deshabilitar los campos de textos con diferentes botones.
 
 **Captura de pantalla:**  
 ![Ejercicio 4](capturas/Ejercicio4.png)
@@ -62,7 +62,7 @@ Cada actividad corresponde a un ejercicio.
 
 ### Ejercicio 5
 **Descripción:**  
-*(Breve explicación de lo que hace este ejercicio)*  
+- Consiste en calcular el valor del IVA agregado a nuestros productos.
 
 **Captura de pantalla:**  
 ![Ejercicio 5](capturas/Ejercicio5.png)
@@ -71,7 +71,7 @@ Cada actividad corresponde a un ejercicio.
 
 ### Ejercicio 6
 **Descripción:**  
-*(Breve explicación de lo que hace este ejercicio)*  
+- Consiste en calcular el promedio de 3 trimestres, el resultado dependera en si la calificacion final dad es aprobatorio o reprobatoria.
 
 **Captura de pantalla:**  
 ![Ejercicio 6](capturas/Ejercicio6.png)
@@ -80,7 +80,7 @@ Cada actividad corresponde a un ejercicio.
 
 ### Ejercicio 7
 **Descripción:**  
-*(Breve explicación de lo que hace este ejercicio)*  
+- Consiste en calcular el Area junto al Perimetro de un circulo introduciendo unicamente el radio del dicho mencionado.
 
 **Captura de pantalla:**  
 ![Ejercicio 7](capturas/Ejercicio7.png)
@@ -89,7 +89,7 @@ Cada actividad corresponde a un ejercicio.
 
 ### Ejercicio 8
 **Descripción:**  
-*(Breve explicación de lo que hace este ejercicio)*  
+- Consiste en dar el resultado de potencias, introduciendo los valores de la potencia y de la base.
 
 **Captura de pantalla:**  
 ![Ejercicio 8](capturas/Ejercicio8.png)
@@ -98,7 +98,7 @@ Cada actividad corresponde a un ejercicio.
 
 ### Ejercicio 9
 **Descripción:**  
-*(Breve explicación de lo que hace este ejercicio)*  
+- Este ejercicio nos da  por resultado las soluciones de problema cuadraticas, introduciendo los valores de a,b y c, este nos dira los diferentes tipos de soluciones.
 
 **Captura de pantalla:**  
 ![Ejercicio 9](capturas/Ejercicio9.png)
@@ -107,7 +107,7 @@ Cada actividad corresponde a un ejercicio.
 
 ### Ejercicio 10
 **Descripción:**  
-*(Breve explicación de lo que hace este ejercicio)*  
+- Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
 
 **Captura de pantalla:**  
 ![Ejercicio 10](capturas/Ejercicio10.png)
