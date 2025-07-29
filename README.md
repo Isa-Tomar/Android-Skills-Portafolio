@@ -38,7 +38,7 @@ Cada actividad corresponde a un ejercicio.
 *(Breve explicación de lo que hace este ejercicio)*  
 
 **Captura de pantalla:**  
-![Ejercicio 2](capturas/ejercicio2.png)
+![Ejercicio 2](capturas/Ejercicio2.png)
 
 ---
 
@@ -47,7 +47,7 @@ Cada actividad corresponde a un ejercicio.
 *(Breve explicación de lo que hace este ejercicio)*  
 
 **Captura de pantalla:**  
-![Ejercicio 3](capturas/ejercicio3.png)
+![Ejercicio 3](capturas/Ejercicio3.png)
 
 ---
 
@@ -56,7 +56,7 @@ Cada actividad corresponde a un ejercicio.
 *(Breve explicación de lo que hace este ejercicio)*  
 
 **Captura de pantalla:**  
-![Ejercicio 4](capturas/ejercicio4.png)
+![Ejercicio 4](capturas/Ejercicio4.png)
 
 ---
 
@@ -65,7 +65,7 @@ Cada actividad corresponde a un ejercicio.
 *(Breve explicación de lo que hace este ejercicio)*  
 
 **Captura de pantalla:**  
-![Ejercicio 5](capturas/ejercicio5.png)
+![Ejercicio 5](capturas/Ejercicio5.png)
 
 ---
 
@@ -74,7 +74,7 @@ Cada actividad corresponde a un ejercicio.
 *(Breve explicación de lo que hace este ejercicio)*  
 
 **Captura de pantalla:**  
-![Ejercicio 6](capturas/ejercicio6.png)
+![Ejercicio 6](capturas/Ejercicio6.png)
 
 ---
 
@@ -83,7 +83,7 @@ Cada actividad corresponde a un ejercicio.
 *(Breve explicación de lo que hace este ejercicio)*  
 
 **Captura de pantalla:**  
-![Ejercicio 7](capturas/ejercicio7.png)
+![Ejercicio 7](capturas/Ejercicio7.png)
 
 ---
 
@@ -92,7 +92,7 @@ Cada actividad corresponde a un ejercicio.
 *(Breve explicación de lo que hace este ejercicio)*  
 
 **Captura de pantalla:**  
-![Ejercicio 8](capturas/ejercicio8.png)
+![Ejercicio 8](capturas/Ejercicio8.png)
 
 ---
 
@@ -101,7 +101,7 @@ Cada actividad corresponde a un ejercicio.
 *(Breve explicación de lo que hace este ejercicio)*  
 
 **Captura de pantalla:**  
-![Ejercicio 9](capturas/ejercicio9.png)
+![Ejercicio 9](capturas/Ejercicio9.png)
 
 ---
 
@@ -110,7 +110,7 @@ Cada actividad corresponde a un ejercicio.
 *(Breve explicación de lo que hace este ejercicio)*  
 
 **Captura de pantalla:**  
-![Ejercicio 10](capturas/ejercicio10.png)
+![Ejercicio 10](capturas/Ejercicio10.png)
 
 ---
 
