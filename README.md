@@ -1,10 +1,10 @@
 # Android-Skills-Portafolio
 # 📱 Android Skills Portfolio
 
-**Número de equipo:** 1  
+**Número de equipo:** 8 
 **Integrantes:**  
-- [Tu Nombre] – Desarrollador y Diseñador  
-
+- Azael Hernández Uvera - Desarrollador y diseñador
+- Isai Raziel Toledo Mariscal - Desarrollador y tester
 ---
 
 ## 📌 ¿Qué hace la aplicación?
