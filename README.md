@@ -121,7 +121,7 @@ Crea una oracion con los valores introducidos en los campos de texto cuando se p
 - Mostramos un menu segun el lugar donde el usuario haga presion en la pantalla, dicho menu muestra los colores que al seleccionar uno, cambia el color de la pantalla.
 
 **Captura de pantalla:**  
-![Ejercicio 10](capturas/Guiado14.png)
+![Ejercicio 10](capturas/Guiao14.png)
 
 ---
 
