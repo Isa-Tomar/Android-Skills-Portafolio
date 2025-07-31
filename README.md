@@ -82,7 +82,7 @@ Crea una oracion con los valores introducidos en los campos de texto cuando se p
 
 ### Guiado 10
 **Descripción:**  
-- Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
+- Mostramos los valores en tiempo real en un TextView de los aumentos progresivos pares usando un NumberPicker.
 
 **Captura de pantalla:**  
 ![Ejercicio 10](capturas/Guiado10.png)
@@ -91,7 +91,7 @@ Crea una oracion con los valores introducidos en los campos de texto cuando se p
 
 ### Guiado 11
 **Descripción:**  
-- Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
+- Mostramos los valores en tiempo real el valor dado por un SeekBar dentro de un TextView.
 
 **Captura de pantalla:**  
 ![Ejercicio 10](capturas/Guiado11.png)
@@ -100,7 +100,7 @@ Crea una oracion con los valores introducidos en los campos de texto cuando se p
 
 ### Guiado 12
 **Descripción:**  
-- Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
+- Hacemos uso de un menu para interacturar con el usuario, en dicho menu se puede cambiar el color de la pantalla, estando los siguientes disponibles : rojo, azul, verde.
 
 **Captura de pantalla:**  
 ![Ejercicio 10](capturas/Guiado12.png)
@@ -109,7 +109,7 @@ Crea una oracion con los valores introducidos en los campos de texto cuando se p
 
 ### Guiado 13
 **Descripción:**  
-- Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
+- Hacemos uso de un layout para simular una barra de herramientas en donde, dentro de ella colocamos botones que arrojan un mensaje segun el boton presionado.
 
 **Captura de pantalla:**  
 ![Ejercicio 10](capturas/Guiado13.png)
@@ -118,7 +118,7 @@ Crea una oracion con los valores introducidos en los campos de texto cuando se p
 
 ### Guiado 14 
 **Descripción:**  
-- Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
+- Mostramos un menu segun el lugar donde el usuario haga presion en la pantalla, dicho menu muestra los colores que al seleccionar uno, cambia el color de la pantalla.
 
 **Captura de pantalla:**  
 ![Ejercicio 10](capturas/Guiado14.png)
@@ -127,7 +127,7 @@ Crea una oracion con los valores introducidos en los campos de texto cuando se p
 
 ### Guiado 15
 **Descripción:**  
-- Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
+- Permite elegir un archivo dentro del almacenamiento del usuario, despues de haber seleccionado un archivo, se abrira el nombre y ruta del archivo escogido.
 
 **Captura de pantalla:**  
 ![Ejercicio 10](capturas/Guiado15.png)
