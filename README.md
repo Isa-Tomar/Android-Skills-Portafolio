@@ -25,24 +25,6 @@ Esta aplicación móvil desarrollada en **Java con Android Studio** permite:
 
 Cada actividad corresponde a un ejercicio.  
 
-### Ejercicio 1
-**Descripción:**  
-- Oculta y visualiza cadenas de texto establecidos. 
-
-**Captura de pantalla:**  
-![Ejercicio 1](capturas/Ejercicio1.png)
-
----
-
-### Ejercicio 2
-**Descripción:**  
-- Envia las cadenas de texto introducidos a otros campos de texto 
-
-**Captura de pantalla:**  
-![Ejercicio 2](capturas/Ejercicio2.png)
-
----
-
 ### Ejercicio 3
 **Descripción:**  
 - Imprime la cadena de texto introducido al instante dentro de otro campo de texto.
@@ -97,23 +79,62 @@ Crea una oracion con los valores introducidos en los campos de texto cuando se p
 
 ---
 
-### Ejercicio 9
-**Descripción:**  
-- Este ejercicio nos da  por resultado las soluciones de problema cuadraticas, introduciendo los valores de a,b y c, este nos dira los diferentes tipos de soluciones.
 
-**Captura de pantalla:**  
-![Ejercicio 9](capturas/Ejercicio9.png)
-
----
-
-### Ejercicio 10
+### Guiado 10
 **Descripción:**  
 - Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
 
 **Captura de pantalla:**  
-![Ejercicio 10](capturas/Ejercicio10.png)
+![Ejercicio 10](capturas/Guiado10.png)
 
 ---
+
+### Guiado 11
+**Descripción:**  
+- Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
+
+**Captura de pantalla:**  
+![Ejercicio 10](capturas/Guiado11.png)
+
+---
+
+### Guiado 12
+**Descripción:**  
+- Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
+
+**Captura de pantalla:**  
+![Ejercicio 10](capturas/Guiado12.png)
+
+---
+
+### Guiado 13
+**Descripción:**  
+- Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
+
+**Captura de pantalla:**  
+![Ejercicio 10](capturas/Guiado13.png)
+
+---
+
+### Guiado 14 
+**Descripción:**  
+- Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
+
+**Captura de pantalla:**  
+![Ejercicio 10](capturas/Guiado14.png)
+
+---
+
+### Guiado 15
+**Descripción:**  
+- Consiste en mostrarnos el sistema operativo elegido segun lo que escojamos dentro del Spinner , mostrando dicho resultado en un campo de texto.
+
+**Captura de pantalla:**  
+![Ejercicio 10](capturas/Guiado15.png)
+
+---
+
+
 
 ## ⚙️ Requisitos Técnicos
 
